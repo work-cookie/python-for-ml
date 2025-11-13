@@ -1,4 +1,4 @@
-# flow control stmts 
+# flow control stmts
 """
 if - elif - else
 for - loop
@@ -17,9 +17,9 @@ for i in range(5):
     print(i)
 
 # [1,9]
-for i in range(1,10):
+for i in range(1, 10):
     print(i)
 
-#1, 3, 5, 7, 9
-for i in range(1,10,2):
+# 1, 3, 5, 7, 9
+for i in range(1, 10, 2):
     print(i)
